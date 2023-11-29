@@ -1,5 +1,7 @@
 # Manajemen Keuangan Simple
 
+![Manajemen Keuangan Simple](https://github.com/inxberkah/manajemen-keuangan-simple/blob/main/sample.jpeg)
+
 ## Deskripsi
 Aplikasi Manajemen Keuangan Simple adalah alat sederhana untuk membantu Anda mengelola keuangan pribadi Anda. Dibangun dengan fokus pada kemudahan penggunaan, aplikasi ini menyediakan fitur dasar untuk menambahkan dan menghapus data keuangan.
 
